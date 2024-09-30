@@ -1,0 +1,524 @@
+[
+    {
+        "img": "horse.png",
+        "options": [
+            "Horse",
+            "Cat",
+            "Puppy"
+        ],
+        "right_answer": "Horse"
+    },
+    {
+        "img": "cow.png",
+        "options": [
+            "Cat",
+            "Cow",
+            "Dog"
+        ],
+        "right_answer": "Cow"
+    },
+    {
+        "img": "cat.png",
+        "options": [
+            "Rabbit",
+            "Chick",
+            "Cat"
+        ],
+        "right_answer": "Cat"
+    },
+    {
+        "img": "chicken.png",
+        "options": [
+            "Sheep",
+            "Chicken",
+            "Cow"
+        ],
+        "right_answer": "Chicken"
+    },
+    {
+        "img": "sheep.png",
+        "options": [
+            "Cat",
+            "Sheep",
+            "Dog"
+        ],
+        "right_answer": "Sheep"
+    },
+    {
+        "img": "dog.png",
+        "options": [
+            "Horse",
+            "Cow",
+            "Dog"
+        ],
+        "right_answer": "Dog"
+    },
+    {
+        "img": "kuiken.png",
+        "options": [
+            "Chick",
+            "Cat",
+            "Pig"
+        ],
+        "right_answer": "Chick"
+    },
+    {
+        "img": "puppy.png",
+        "options": [
+            "Horse",
+            "Cat",
+            "Puppy"
+        ],
+        "right_answer": "Puppy"
+    },
+    {
+        "img": "foal.png",
+        "options": [
+            "Dog",
+            "Foal",
+            "Sheep"
+        ],
+        "right_answer": "Foal"
+    },
+    {
+        "img": "grey-kitten.png",
+        "options": [
+            "Dog",
+            "Kitten",
+            "Sheep"
+        ],
+        "right_answer": "Kitten"
+    },
+    {
+        "img": "lamb.png",
+        "options": [
+            "Lamb",
+            "Cow",
+            "Rabbit"
+        ],
+        "right_answer": "Lamb"
+    },
+    {
+        "img": "pig.png",
+        "options": [
+            "Lamb",
+            "Pig",
+            "Rabbit"
+        ],
+        "right_answer": "Pig"
+    },
+    {
+        "img": "calf.png",
+        "options": [
+            "Calf",
+            "Sheep",
+            "Horse"
+        ],
+        "right_answer": "Calf"
+    },
+    {
+        "img": "baby-konijn.png",
+        "options": [
+            "Kitten",
+            "Chick",
+            "Bunny"
+        ],
+        "right_answer": "Bunny"
+    },
+    {
+        "img": "geit.png",
+        "options": [
+            "Cow",
+            "Goat",
+            "Sheep"
+        ],
+        "right_answer": "Goat"
+    },
+    {
+        "img": "donkey.png",
+        "options": [
+            "Donkey",
+            "Horse",
+            "Cat"
+        ],
+        "right_answer": "Donkey"
+    },
+    {
+        "img": "dolphin.png",
+        "options": [
+            "Seal",
+            "Dolphin",
+            "Whale"
+        ],
+        "right_answer": "Dolphin"
+    },
+    {
+        "img": "seal.png",
+        "options": [
+            "Crab",
+            "Turtle",
+            "Seal"
+        ],
+        "right_answer": "Seal"
+    },
+    {
+        "img": "crab.png",
+        "options": [
+            "Crab",
+            "Orca",
+            "Fish"
+        ],
+        "right_answer": "Crab"
+    },
+    {
+        "img": "orca.png",
+        "options": [
+            "Crab",
+            "Orca",
+            "Fish"
+        ],
+        "right_answer": "Orca"
+    },
+    {
+        "img": "pufferfish.png",
+        "options": [
+            "Turtle",
+            "Pufferfish",
+            "Dolphin"
+        ],
+        "right_answer": "Pufferfish"
+    },
+    {
+        "img": "seahorse.png",
+        "options": [
+            "Pinguin",
+            "Shark",
+            "Seahorse"
+        ],
+        "right_answer": "Seahorse"
+    },
+    {
+        "img": "pinguin.png",
+        "options": [
+            "Pinguin",
+            "Shark",
+            "Seal"
+        ],
+        "right_answer": "Pinguin"
+    },
+    {
+        "img": "sperm-whale.png",
+        "options": [
+            "Pufferfish",
+            "Shark",
+            "Sperm whale"
+        ],
+        "right_answer": "Sperm whale"
+    },
+    {
+        "img": "shark.png",
+        "options": [
+            "Seahorse",
+            "Fish",
+            "Shark"
+        ],
+        "right_answer": "Shark"
+    },
+    {
+        "img": "turtle.png",
+        "options": [
+            "Turtle",
+            "Whale",
+            "Seal"
+        ],
+        "right_answer": "Turtle"
+    },
+    {
+        "img": "whale.png",
+        "options": [
+            "Turtle",
+            "Whale",
+            "Seahorse"
+        ],
+        "right_answer": "Whale"
+    },
+    {
+        "img": "elephant.png",
+        "options": [
+            "Elephant",
+            "Monkey",
+            "Giraffe"
+        ],
+        "right_answer": "Elephant"
+    },
+    {
+        "img": "Lion.png",
+        "options": [
+            "Giraffe",
+            "Lion",
+            "Tiger"
+        ],
+        "right_answer": "Lion"
+    },
+    {
+        "img": "tiger.png",
+        "options": [
+            "Monkey",
+            "Lion",
+            "Tiger"
+        ],
+        "right_answer": "Tiger"
+    },
+    {
+        "img": "zebra.png",
+        "options": [
+            "Zebra",
+            "Elephant",
+            "Tiger"
+        ],
+        "right_answer": "Zebra"
+    },
+    {
+        "img": "monkey.png",
+        "options": [
+            "Zebra",
+            "Giraffe",
+            "Monkey"
+        ],
+        "right_answer": "Monkey"
+    },
+    {
+        "img": "giraffe.png",
+        "options": [
+            "Zebra",
+            "Giraffe",
+            "Monkey"
+        ],
+        "right_answer": "Giraffe"
+    },
+    {
+     "img": "bear.png",
+        "options": [
+            "Zebra",
+            "Giraffe",
+            "Bear"
+        ],
+        "right_answer": "Bear"   
+    },
+    {
+     "img": "chimpansee.png",
+        "options": [
+            "Chimpansee",
+            "Giraffe",
+            "Bear"
+        ],
+        "right_answer": "Chimpansee"   
+    },
+    {
+     "img": "flamingo.png",
+        "options": [
+            "Chimpansee",
+            "Flamingo",
+            "Bear"
+        ],
+        "right_answer": "Flamingo"   
+    },
+    {
+     "img": "gorilla.png",
+        "options": [
+            "Chimpansee",
+            "Flamingo",
+            "Gorilla"
+        ],
+        "right_answer": "Gorilla"   
+    },
+    {
+     "img": "neushoorn.png",
+        "options": [
+            "Neushoorn",
+            "Flamingo",
+            "Gorilla"
+        ],
+        "right_answer": "Neushoorn"   
+    },
+    {
+     "img": "papegaai.png",
+        "options": [
+            "Neushoorn",
+            "Papegaai",
+            "Gorilla"
+        ],
+        "right_answer": "Papegaai"   
+    },
+    {
+     "img": "piglet.png",
+        "options": [
+            "Neushoorn",
+            "Papegaai",
+            "Piglet"
+        ],
+        "right_answer": "Piglet"   
+    },
+    {
+     "img": "ringstaartmaki.png",
+        "options": [
+            "Neushoorn",
+            "Puppy",
+            "Ringstaartmaki"
+        ],
+        "right_answer": "Ringstaartmaki"   
+    },
+    {
+     "img": "snake.png",
+        "options": [
+            "Neushoorn",
+            "Snake",
+            "Ringstaartmaki"
+        ],
+        "right_answer": "Snake"   
+    },
+    {
+     "img": "hippo.png",
+        "options": [
+            "Hippo",
+            "Snake",
+            "Ringstaartmaki"
+        ],
+        "right_answer": "Hippo"   
+    },
+    {
+     "img": "owl.png",
+        "options": [
+            "Hippo",
+            "Snake",
+            "Owl"
+        ],
+        "right_answer": "Owl"   
+    },
+    {
+     "img": "squirrel.png",
+        "options": [
+            "Hippo",
+            "Squirrel",
+            "Owl"
+        ],
+        "right_answer": "Squirrel"   
+    },
+    {
+     "img": "badger.png",
+        "options": [
+            "Hippo",
+            "Squirrel",
+            "Owl"
+        ],
+        "right_answer": "Badger"   
+    },
+    {
+     "img": "elk.png",
+        "options": [
+            "Hippo",
+            "Elk",
+            "Owl"
+        ],
+        "right_answer": "Elk"   
+    },
+    {
+     "img": "elk.png",
+        "options": [
+            "Hippo",
+            "Elk",
+            "Owl"
+        ],
+        "right_answer": "Elk"   
+    },
+    {
+     "img": "skunk.png",
+        "options": [
+            "Skunk",
+            "Elk",
+            "Owl"
+        ],
+        "right_answer": "Skunk"   
+    },
+    {
+     "img": "fox.png",
+        "options": [
+            "Skunk",
+            "Fox",
+            "Owl"
+        ],
+        "right_answer": "Fox"   
+    },
+    {
+     "img": "deer.png",
+        "options": [
+            "Skunk",
+            "Fox",
+            "Deer"
+        ],
+        "right_answer": "Deer"   
+    },
+    {
+     "img": "wolf.png",
+        "options": [
+            "Skunk",
+            "Fox",
+            "Wolf"
+        ],
+        "right_answer": "Wolf"   
+    },
+    {
+     "img": "raccoon.png",
+        "options": [
+            "Skunk",
+            "Raccoon",
+            "Wolf"
+        ],
+        "right_answer": "Raccoon"   
+    },
+    {
+     "img": "pelican.png",
+        "options": [
+            "Skunk",
+            "Raccoon",
+            "Pelican"
+        ],
+        "right_answer": "Pelican"   
+    },
+    {
+     "img": "hyena.png",
+        "options": [
+            "Hyena",
+            "Raccoon",
+            "Pelican"
+        ],
+        "right_answer": "Hyena"   
+    },
+    {
+     "img": "hyena.png",
+        "options": [
+            "Hyena",
+            "lama",
+            "Pelican"
+        ],
+        "right_answer": "Hyena"   
+    },
+    {
+     "img": "lama.png",
+        "options": [
+            "Hyena",
+            "Lama",
+            "Pelican"
+        ],
+        "right_answer": "Lama"   
+    },
+    {
+     "img": ".png",
+        "options": [
+            "Hyena",
+            "Lama",
+            "Pelican"
+        ],
+        "right_answer": ""   
+    }
+]
